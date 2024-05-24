@@ -1,2 +1,2 @@
-# everskill-plane-course
-an everskill course
+# everskill-course-template
+Course template for Everskill!
