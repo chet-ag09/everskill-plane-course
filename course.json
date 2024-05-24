@@ -7,17 +7,17 @@
     ],
     "pages": {
         "home": {
-            "html": "",
+            "html": "https://raw.githubusercontent.com/chet-ag09/everskill-plane-course/main/src/index.html",
             "title": "index",
             "welcome": true
         },
         "full-guide": {
-            "html": "",
+            "html": "https://raw.githubusercontent.com/chet-ag09/everskill-plane-course/main/src/lesson1.html",
             "title": "full-guide",
             "goodbye": false
         },
         "course-end": {
-            "html": "",
+            "html": "https://raw.githubusercontent.com/chet-ag09/everskill-plane-course/main/src/course-end.html",
             "title": "course-end",
             "goodbye": true
         }
