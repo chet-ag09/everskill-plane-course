@@ -1,9 +1,9 @@
 {
-    "coverart": "TODO",
-    "title": "TODO",
-    "description": "TODO",
+    "coverart": "https://cdn.jsdelivr.net/gh/chet-ag09/everskill-plane-course@main/src/imgs/coverimg.png",
+    "title": "The Art Of Paper Planes",
+    "description": "In this course, you'll learn how to make paper plane!",
     "tags": [
-        "example"
+        "planes"
     ],
     "pages": {
         "home": {
